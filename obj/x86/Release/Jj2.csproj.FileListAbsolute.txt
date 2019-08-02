@@ -1,0 +1,7 @@
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\bin\Release\Jj2.exe
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\bin\Release\Jj2.pdb
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Release\Jj2.Form1.resources
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Release\Jj2.Properties.Resources.resources
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Release\Jj2.csproj.GenerateResource.Cache
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Release\Jj2.exe
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Release\Jj2.pdb

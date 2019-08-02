@@ -1,0 +1,15 @@
+C:\Users\Lazarus\AppData\Local\Temporary Projects\Jj2\obj\x86\Debug\Jj2.Form1.resources
+C:\Users\Lazarus\AppData\Local\Temporary Projects\Jj2\obj\x86\Debug\Jj2.Properties.Resources.resources
+C:\Users\Lazarus\AppData\Local\Temporary Projects\Jj2\obj\x86\Debug\Jj2.csproj.GenerateResource.Cache
+C:\Users\Lazarus\AppData\Local\Temporary Projects\Jj2\bin\Debug\Jj2.exe
+C:\Users\Lazarus\AppData\Local\Temporary Projects\Jj2\bin\Debug\Jj2.pdb
+C:\Users\Lazarus\AppData\Local\Temporary Projects\Jj2\obj\x86\Debug\Jj2.exe
+C:\Users\Lazarus\AppData\Local\Temporary Projects\Jj2\obj\x86\Debug\Jj2.pdb
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Debug\Jj2.exe
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Debug\Jj2.pdb
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Debug\Jj2.Form1.resources
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Debug\Jj2.Properties.Resources.resources
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Debug\Jj2.csproj.GenerateResource.Cache
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\bin\Debug\Jj2.exe
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\bin\Debug\Jj2.pdb
+D:\Laza\Projects\Microsoft c#\Jj2\Jj2\obj\x86\Debug\Jj2.csprojResolveAssemblyReference.cache
